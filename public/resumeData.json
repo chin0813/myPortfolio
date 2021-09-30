@@ -1,108 +1,100 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Chin Yi Xiang",
+    "description":"I am a Software Developer with 4 years expeirence in ERP software and trained in Data Science.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"My main focus is in python development (server side and Data Science tools) and Javascript (ReactJS for apps and frontend development). I am a result focused person, who focus on problem solving and practical solutions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "chinyixiang@gmail.com",
+    "phone": "+60 11 - 1234 4520",
+    "github":"https://github.com/chin0813",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"155, Jln SS 2/72",
+      "city":"Petaling Jaya",
+      "state":"Selangor",
+      "zip": "47300"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/chin.y.xiang/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/chin-yi-xiang-83bb731b1/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/chinyixiang/?hl=en",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/chin0813",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University Science Malaysia",
+        "degree":"MASTER OF SCIENCE (DATA SCIENCE AND ANALYTICS)",
+        "graduated":"October 2021",
+        "description":"Trained in Big Data Analytics, IoT, Machine Learning, Natural Language Processing, Deep Learning, IoT, Business Analytics, etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Malaya",
+        "degree":"BACHELOR OF SCIENCE (PHYSICS)",
+        "graduated":"October 2018",
+        "description":"In depth learning of fundamental physics, electronics, and lab skills."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"SmartB Solutions Sdn. Bhd. ",
+        "title":"Backend Developer",
+        "years":"June 2021 – Now",
+        "description":"Develop custom Modules to Fulfill Customer Requirement, API Integration with 3rd Party Platforms, Provide Technical Support for Team.\n\nTools used: Python, NodeJS, ReactJS, React Native, Expo"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+        "company":"SmartB Solutions Sdn. Bhd. ",
+        "title":"Technical Executive",
+        "years":"April 2018 – August 2019",
+        "description":"System Configuration, Hardware Integration, UI Configuration, Database Design, Data Cleaning and Uploading, Technical Support\n\nTools used: Basic Javascript, Basic Python, Microsoft Excel and VBA"
+      },
+      {
+        "company":"Olympic Edu Sdn. Bhd. ",
+        "title":"Tutor",
+        "years":"June 2017– February 2018",
+        "description":"Guide primary school students on Olympiad Mathematics syllabus. \nInvolved in setting questions for:\n1. 2017 International Olympiad Mathematics Contest Year 8\n2. 2017 International Olympiad Science Contest Lower Secondary\n3. 2018 National Olympiad Mathematics Contest Year 8\n4. 2018 National Olympiad Science Contest Lower Secondary"  
+      }  
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
+        "level":"40%"
+      }, 
       {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"VBA",
+        "level":"40%"
       }
     ]
   },
